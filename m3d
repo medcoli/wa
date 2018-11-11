@@ -1,0 +1,50 @@
+clear
+echo "welcome to my chanel" |lolcat
+sleep 1
+echo "disini saya akan memberi tools yang bermanfaat" |lolcat
+sleep 1
+echo "ok, nama toolsnya ialah" |lolcat
+sleep 1
+echo "Tools spam whatsapp" |lolcat
+sleep 1
+echo "Ini adalah Tools spammer khusus whatsapp" |lolcat
+sleep 1
+echo "jadi khusus prank mantan ya" |lolcat
+sleep 1
+echo "ok cukup sekian dari saya, dan simak berikut "|lolcat
+figlet "Tuan M3SR4N" |lolcat
+read enter
+clear
+echo "ok ikuti commandnya saya" |lolcat
+read enter
+echo "apt update -t" |lolcat
+read enter
+echo "apt update -y" |lolcat
+read enter
+echo "apt upgrade -y" |lolcat
+read enter
+echo "pkg install git" |lolcat
+read enter
+echo "git clone http://github.com/med66/prank" |lolcat
+read enter
+echo "cd prank" |lolcat
+read enter
+echo "lalu ketik ls" |lolcat
+read enter
+echo "ingat ya LS huruf kecil" |lolcat
+read enter
+echo "kalian pilih tuh mau spam WA atau Telfon" |lolcat
+read enter
+echo "kalau WA ketik ini" |lolcat
+echo "php wa.php" |lolcat
+echo "habis itu masukin nomor yang mau di teror" |lolcat
+read enter
+echo "kalau Telfon ketik ini" |lolcat
+echo "php call.php" |lolcat
+echo "habis itu masukin dah nomernya" |lolcat
+read enter
+echo "disini saya sudah install tools nya" |lolcat
+echo "jadi saya tinggal panggil toolsnya saja" |lolcat
+echo "simak baik-baik ya" |lolcat
+read enter
+figlet "TUAN M3SR4N" |lolcat
